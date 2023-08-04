@@ -1,0 +1,67 @@
+.CM-nav {
+  width: 1184px;
+  height: 170px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background: #fff;
+  margin: 10px auto;
+}
+.CM-nav .scsj {
+  width: 410px;
+  margin-left: 35px;
+  display: flex;
+  align-items: center;
+}
+.CM-nav .scsj span {
+  display: inline-block;
+  width: 48px;
+  height: 21px;
+  line-height: 21px;
+}
+.CM-nav .scsj1 {
+  display: flex;
+  align-items: center;
+}
+.CM-nav .scsj1 span {
+  display: inline-block;
+  width: 48px;
+  height: 21px;
+  line-height: 21px;
+}
+.CM-nav .scsj2 {
+  width: 700px;
+  display: flex;
+  align-items: center;
+}
+.CM-nav .scsj2 span {
+  display: inline-block;
+  width: 48px;
+  height: 21px;
+  line-height: 21px;
+}
+.CM-nav .scsj2 input {
+  width: 345px;
+  height: 40px;
+  outline: none;
+  border-radius: 5px;
+}
+.CM-content {
+  background: #fff;
+  width: 1184px;
+  margin: auto;
+  height: auto;
+}
+.CM-content .CMC-n {
+  display: flex;
+  justify-content: space-between;
+  margin: 35px 40px;
+}
+.CM-content .CMC-table {
+  width: 1104px;
+  margin: auto;
+}
+.CM-content .CMC-table img {
+  width: 81px;
+  height: 54px;
+}

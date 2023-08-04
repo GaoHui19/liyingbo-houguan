@@ -1,0 +1,82 @@
+.addBox {
+    width: 1184px;
+    height: 95%;
+    background: #fff;
+    margin: 24px auto;
+
+    .txt {
+        margin-left: 60px;
+        padding-top: 50px;
+        // width: 144px;
+        height: 24px;
+        opacity: 1;
+        /** 文本1 */
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 0px;
+        line-height: 23.17px;
+        color: rgba(153, 153, 153, 1);
+        text-align: left;
+        vertical-align: top;
+    }
+
+    .form {
+        margin-left: 60px;
+
+        // 课程名称
+        .kcName {
+            width: 438px;
+            margin: 30px 0;
+
+        }
+
+        // 上传图片
+        .avatar-uploader {
+            .avatar {
+                width: 178px;
+                height: 178px;
+                display: block;
+            }
+
+            .el-upload {
+                border: 1px dashed var(--el-border-color);
+                border-radius: 6px;
+                cursor: pointer;
+                position: relative;
+                overflow: hidden;
+                transition: var(--el-transition-duration-fast);
+            }
+
+            .el-upload:hover {
+                border-color: var(--el-color-primary);
+            }
+
+            .el-icon.avatar-uploader-icon {
+                font-size: 28px;
+                color: #8c939d;
+                width: 178px;
+                height: 178px;
+                text-align: center;
+            }
+        }
+        .kcjs {
+            width: 694px;
+            height: 40px;
+            line-height: 40px;
+
+            .el-textarea__inner {
+                height: 40px;
+            }
+
+           
+        }
+        .xxjs{
+            width: 694px;
+            height: 250px;
+            .el-textarea__inner {
+                height: 250px;
+            }
+        }
+    }
+
+}

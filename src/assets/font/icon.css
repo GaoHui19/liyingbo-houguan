@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4184443 */
+  src: url('//at.alicdn.com/t/c/font_4184443_45v5iu9f8iy.woff2?t=1690424913660') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4184443_45v5iu9f8iy.woff?t=1690424913660') format('woff'),
+       url('//at.alicdn.com/t/c/font_4184443_45v5iu9f8iy.ttf?t=1690424913660') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tuichu:before {
+  content: "\e86f";
+}
+
+.icon-shouye:before {
+  content: "\e64f";
+}
+
+.icon-shouye1:before {
+  content: "\e634";
+}
+
+.icon-zixun:before {
+  content: "\e646";
+}
+
+.icon-dingdan:before {
+  content: "\e897";
+}
+
+.icon-tixing:before {
+  content: "\e716";
+}
+
+.icon-question:before {
+  content: "\e60c";
+}
+
+.icon-tushu1:before {
+  content: "\e6b9";
+}
+
+.icon-yonghuguanli_huaban:before {
+  content: "\e62d";
+}
+
+.icon-yanzhengyanzhengma:before {
+  content: "\e624";
+}
+
+.icon-jyonghu3:before {
+  content: "\e63c";
+}
+
+.icon-mima:before {
+  content: "\e8b2";
+}
+
+.icon-tushu:before {
+  content: "\e60e";
+}

@@ -1,0 +1,61 @@
+.orderDetail {
+  width: 1184px;
+  height: 896px;
+  margin: 24px auto;
+  background: #fff;
+  padding-top: 20px;
+}
+.orderDetail .nav {
+  width: 1064px;
+  height: 60px;
+  margin: auto;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 60px;
+  color: #2bc17b;
+  text-align: center;
+  background: #f0f6f6;
+}
+.orderDetail .tit {
+  width: 1064px;
+  height: 24px;
+  line-height: 24px;
+  margin: 20px auto;
+}
+.orderDetail table {
+  width: 1064px;
+  margin: auto;
+  border-collapse: collapse;
+  border-right: 1px solid #dcebe4;
+  border-bottom: 1px solid #dcebe4;
+}
+.orderDetail table td {
+  border-left: 1px solid #dcebe4;
+  border-top: 1px solid #dcebe4;
+}
+.orderDetail table .bgColor {
+  width: 150px;
+  height: 60px;
+  line-height: 60px;
+  border-radius: 4px 0px, 0px, 0px;
+  background: #f0f6f6;
+  text-align: center;
+}
+.orderDetail table .bgBot {
+  border-bottom: 1px solid #dcebe4;
+}
+.orderDetail table .bgCon {
+  width: 382px;
+  height: 60px;
+  line-height: 60px;
+  border-radius: 4px 0px, 0px, 0px;
+  text-align: center;
+}
+.orderDetail table .bgCon1 {
+  width: 532px;
+  height: 60px;
+  line-height: 60px;
+  border-radius: 4px 0px, 0px, 0px;
+  text-align: center;
+}

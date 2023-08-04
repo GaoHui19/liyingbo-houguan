@@ -1,0 +1,71 @@
+.addBox {
+  width: 1184px;
+  height: 95%;
+  background: #fff;
+  margin: 24px auto;
+}
+.addBox .txt {
+  margin-left: 60px;
+  padding-top: 50px;
+  width: 144px;
+  height: 24px;
+  opacity: 1;
+  /** 文本1 */
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 23.17px;
+  color: #999999;
+  text-align: left;
+  vertical-align: top;
+}
+.addBox .form {
+  margin-left: 60px;
+}
+.addBox .form .kcName {
+  width: 438px;
+  margin: 30px 0;
+}
+.addBox .form .avatar-uploader .avatar {
+  width: 178px;
+  height: 178px;
+  display: block;
+}
+.addBox .form .avatar-uploader .el-upload {
+  border: 1px dashed var(--el-border-color);
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  transition: var(--el-transition-duration-fast);
+}
+.addBox .form .avatar-uploader .el-upload:hover {
+  border-color: var(--el-color-primary);
+}
+.addBox .form .avatar-uploader .el-icon.avatar-uploader-icon {
+  font-size: 28px;
+  color: #8c939d;
+  width: 178px;
+  height: 178px;
+  text-align: center;
+}
+.addBox .form .kcjs {
+  width: 694px;
+  height: 100px;
+  line-height: 100px;
+}
+.addBox .form .kcjs .el-textarea__inner {
+  height: 100px;
+}
+.addBox .form .kcml {
+  width: 694px;
+  height: 40px;
+  /** 文本1 */
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 23.17px;
+  color: #333333;
+  text-align: left;
+  vertical-align: top;
+}
